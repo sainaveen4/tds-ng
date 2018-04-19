@@ -1,0 +1,663 @@
+{
+    "defaultContent":{
+        "page":{
+            "attribute":{
+                "isPageLoadVariables": "true"
+            },
+            "pageInfo": {
+                "pageLoadEvent": "prodLoad",
+                "language": "en",
+                "pageName": ""
+            },
+            "category":{
+                "primaryCategory": "",
+                "subCategory": "",
+                "pageType": ""
+            }
+        },
+        "siteInfo": {
+            "server": "PATAPLL-J72NXW1",
+            "siteType": "residential",
+            "siteVersion": "modestoResponsive",
+            "sessionID": "1497c713-186f-4015-b7ce-5014f788d064",
+            "visitorID": ""
+        },
+        "users": [
+            {
+                "profile":[
+                    {
+                        "profileInfo":{
+                            "customerType": "new",
+                            "authenticationStatus": "unauthenticated"
+                        }
+                    }
+                ]
+            }
+        ],
+        "cart":{
+            "attribute":{
+                "isOfferInCart": "no",
+                "offerInCart": ""
+            }
+        },
+        "event":[]
+    },
+    "config":{
+        "routes":[
+            {
+                "eventName": "404-Error",
+                "pageName": "",
+                "primaryCategory": "",
+                "subCategory": "",
+                "pageType": "errorPage"
+            },
+            {
+                "eventName": "Products-Shop-Modal",
+                "pageName": "Products|Shop|Modal",
+                "primaryCategory": "",
+                "subCategory": "",
+                "transform":true
+            },
+            {
+                "eventName": "Shop-Device",
+                "pageName": "Shop|Devices",
+                "primaryCategory": "Shop",
+                "subCategory": "Device"
+            },
+            {
+                "eventName": "Shop-Accessory",
+                "pageName": "Shop|Accessories",
+                "primaryCategory": "Shop",
+                "subCategory": "Accessory"
+            },
+            {
+                "eventName": "Products-Shop-Modal-Customizer",
+                "pageName": "Products|Shop|Modal|Customizer",
+                "primaryCategory": "Product",
+                "subCategory": "Shop",
+                "transform":true
+            },
+            {
+                "eventName": "Home-Learn-Transporter-6",
+                "pageName": "Home|Learn|Transporter|6",
+                "primaryCategory": "Home",
+                "subCategory": "Learn"
+            },
+            {
+                "eventName": "Home-Learn-Coverage-1",
+                "pageName": "Home|Learn|Coverage|1",
+                "primaryCategory": "Home",
+                "subCategory": "Learn"
+            },
+            {
+                "eventName": "Home-Learn-Gigs-2",
+                "pageName": "Home|Learn|Gigs|2",
+                "primaryCategory": "Home",
+                "subCategory": "Learn"
+            },
+            {
+                "eventName": "Home-Learn-Hero-0",
+                "pageName": "Home|Learn|Hero|0",
+                "primaryCategory": "Home",
+                "subCategory": "Learn"
+            },
+            {
+                "eventName": "Home-Learn-Modal-HotspotMap",
+                "pageName": "Home|Learn|Modal|Hotspot Map",
+                "primaryCategory": "Home",
+                "subCategory": "Learn"
+            },
+            {
+                "eventName": "Home-Learn-SavingsVisualizer-5",
+                "pageName": "Home|Learn|Savings Visualizer|5",
+                "primaryCategory": "Home",
+                "subCategory": "Learn"
+            },
+            {
+                "eventName": "Plan-Learn",
+                "pageName": "Plan|Learn",
+                "primaryCategory": "Plan",
+                "subCategory": "Learn"
+            },
+            {
+                "eventName": "Products-Shop",
+                "pageName": "Products|Shop|{{productName}}",
+                "primaryCategory": "Products",
+                "subCategory": "Shop"
+            },
+            {
+                "eventName": "Products-Shop-ProductCatalog",
+                "pageName": "Products|Shop|Product Catalog",
+                "primaryCategory": "Product",
+                "subCategory": "Shop"
+            },
+            {
+                "eventName": "Footer-Legal",
+                "pageName": "Footer|Legal",
+                "primaryCategory": "Global Footer",
+                "subCategory": "Legal",
+                "transform":true
+            },
+            {
+                "eventName": "Support-Search-Results",
+                "pageName": "Support|Search|Results",
+                "primaryCategory": "Support",
+                "subCategory": "Search"
+            },
+            {
+                 "eventName": "Checkout-Login",
+                 "pageName": "Buy flow|Checkout|Login",
+                 "primaryCategory": "Buy Flow",
+                 "subCategory": "Checkout"
+           },
+           {
+                "eventName": "Checkout-Shipping",
+                "pageName": "Buy flow|Checkout|Shipping",
+                "primaryCategory": "Buy Flow",
+                "subCategory": "Checkout"
+          },
+          {
+                "eventName": "Checkout-Payment",
+                "pageName": "Buy flow|Checkout|Payment",
+                "primaryCategory": "Buy Flow",
+                "subCategory": "Checkout"
+          },
+          {
+                "eventName": "Checkout-Review",
+                "pageName": "Buy flow|Checkout|Review Order",
+                "primaryCategory": "Buy Flow",
+                "subCategory": "Checkout"
+          },
+          {
+                "eventName": "Checkout-Fraud-Check",
+                "pageName": "Buy flow|Checkout|Fraud Check",
+                "primaryCategory": "Buy Flow",
+                "subCategory": "Checkout"
+          },
+          {
+                "eventName": "Checkout-Credit-Check",
+                "pageName": "Buy flow|Checkout|Credit Check",
+                "primaryCategory": "Buy Flow",
+                "subCategory": "Checkout"
+          },
+          {
+                "eventName": "Checkout-Eligibility",
+                "pageName": "Buy flow|Checkout|Eligibility",
+                "primaryCategory": "Buy Flow",
+                "subCategory": "Checkout"
+          },
+          {
+                "eventName": "Checkout-Review-Monthly-Bill",
+                "pageName": "Buy flow|Checkout|Review-Estimated Bill",
+                "primaryCategory": "Buy Flow",
+                "subCategory": "Checkout"
+          },
+          {
+                "eventName": "Checkout-Confirmation",
+                "pageName": "Buy flow|Checkout|Confirmation",
+                "primaryCategory": "Buy Flow",
+                "subCategory": "Checkout"
+          },
+          {
+                "eventName": "Checkout-Error",
+                "pageName": "Buy flow|Checkout|Error",
+                "primaryCategory": "Buy Flow",
+                "subCategory": "Checkout"
+          },
+          {
+                "eventName": "Payment-Token-Error",
+                "pageName": "Buy flow|Checkout|Payment Token Error",
+                "primaryCategory": "Buy Flow",
+                "subCategory": "Checkout"
+          },
+          {
+                "eventName": "Signup-Device",
+                "pageName": "Products|Shop|Modal|Customizer|Customize Phone",
+                "primaryCategory": "Shop",
+                "subCategory": "Customize Phone"
+          },
+          {
+                "eventName": "Signup-Plan",
+                "pageName": "Products|Shop|Modal|Customizer|Customize Plan",
+                "primaryCategory": "Shop",
+                "subCategory": "Customize Plan"
+          },
+          {
+                "eventName": "Signup-Review",
+                "pageName": "Products|Shop|Modal|Review Cart",
+                "primaryCategory": "Shop",
+                "subCategory": "Customizer Review Cart"
+          },
+          {
+                "eventName": "FraudErrorPage",
+                "pageName": "Fraud Error Page",
+                "primaryCategory": "Fraud",
+                "subCategory": ""
+          }
+        ],
+        "events":[
+            {
+                "eventName": "AddToCart",
+                "name": "button click",
+                "action": "Add to Cart - {{actionName}}",
+                "page": "Product|Shop|Accessories"
+            },
+            {
+                "eventName": "AddToCustomizer",
+                "name": "button click",
+                "action": "Add to Customizer - {{actionName}}",
+                "page": "Shop|Devices"
+            },
+            {
+                "eventName": "PlanDetailClick",
+                "name": "button click",
+                "action": "Plan Detail - {{planDetail}}",
+                "page": "Plan|Learn|Plan Overview|1"
+            },
+            {
+                "eventName": "PlanClick",
+                "name": "click",
+                "action": "Plan Bar - {{tab}}",
+                "page": "Plan|Learn|shop|5"
+            },
+            {
+                "eventName": "ToolEngagement-PlanPicker",
+                "name": "Tool Engagement",
+                "action": "Plan Picker",
+                "page": "Plan|Learn|Plan Picker|2"
+            },
+            {
+                "eventName": "ToolEngagement",
+                "name": "button click",
+                "action": "WiFI Hotspot Locator",
+                "page": "Home|Learn|Coverage|1"
+            },
+            {
+                "eventName": "AddToCartOverlayClick",
+                "name": "button click",
+                "action": "add to cart",
+                "page": "Products|Shop|Modal|{{brandName}}"
+            },
+            {
+                "eventName": "CheckoutLoginError",
+                "name": "customer facing error",
+                "action": "The username and password entered do not match. Please try again.",
+                "page": "Buy Flow|Checkout|Login"
+            },
+            {
+                "eventName": "ExternalCheckFailed",
+                "name": "customer facing error",
+                "action": "We are so sorry, but your credit isn’t quite on the level. We wish we could make XFINITY Mobile happen for you, but right now it’s just not possible. Again, apologies!",
+                "page": "Buy Flow|Checkout|Payment"
+            },
+            {
+                "eventName": "HopError",
+                "name": "Payment Error",
+                "action": "",
+                "page": "Buy Flow|Checkout|Payment"
+            },
+            {
+                "eventName": "OrderFail",
+                "name": "Order Fail",
+                "action": "",
+                "page": "Buy Flow|Checkout|Payment"
+            },
+            {
+                "eventName": "CheckoutTimeoutError",
+                "name": "customer facing error",
+                "action": "Something went wrong. Please try again.",
+                "page": "Buy Flow|Checkout|Payment"
+            },
+            {
+                "eventName": "CheckoutGenericError",
+                "name": "customer facing error",
+                "action": "Please, contact customer support.",
+                "page": "Buy Flow|Checkout|Payment"
+            },
+            {
+                "eventName": "AddressVerifyError",
+                "name": "customer facing error",
+                "action": "Are you sure this is your address? As you typed it, we can’t quite read it. Please check you entered it correctly.",
+                "page": "Buy Flow|Checkout|Shipping"
+            },
+            {
+                "eventName": "AccessoryCardAddToCart",
+                "name": "button click",
+                "action": "add to cart",
+                "page": "Products|Shop|{{pageName}}"
+            },
+            {
+                "eventName": "IdleError",
+                "name": "customer facing error",
+                "action": "For security purposes, we had to log out out of your account due to inactivity",
+                "page": "{{pageName}}"
+            },
+            {
+                "eventName": "MapOverlayOpen",
+                "name": "click",
+                "action": "Enter zip code",
+                "page": "shop/learn/xfinity mobile home"
+            },
+            {
+                "eventName": "MyAccountBillingChartClick",
+                "name": "billing-chart-click",
+                "action": "billing period change",
+                "page": ""
+            },
+            {
+                "eventName": "MyAccountTogglePause",
+                "name": "button click",
+                "action": "{{actionName}}",
+                "page": ""
+            },
+            {
+                "eventName": "AccessoriesFilterEmpty",
+                "name": "customer facing error",
+                "action": "We thought we had it all, but apparently not that. Want to switch up your search filters and try again?",
+                "page": "Products|Shop|Product Catalog"
+            },
+            {
+                "eventName": "Click",
+                "name": "customer facing error",
+                "action": "We thought we had it all, but apparently not that. Want to switch up your search filters and try again?",
+                "page": "Products|Shop|Product Catalog"
+            },
+            {
+                "eventName": "CustomizePhone",
+                "name": "click",
+                "action": "Continue Customizer",
+                "page": "Products|Shop|Modal|Phone Customizer",
+                "dtmEvent": "customizerPhone-Addition"
+            },
+            {
+                "eventName": "CustomizePlan",
+                "name": "click",
+                "action": "Add to Cart",
+                "page": "Products|Shop|Modal|Plan Customizer",
+                "dtmEvent": "customizerCart-Addition"
+            },
+            {
+                "eventName": "PlanDetailCardCTA",
+                "name": "button click",
+                "action": "plan detail card CTA",
+                "page": "Myaccount|Data|Data Details"
+            },
+            {
+                "eventName": "PlanDetailsViewPastUsage",
+                "name": "link click",
+                "action": "View Past Usage",
+                "page": "Myaccount|Data|Data Details"
+            },
+            {
+                "eventName": "PlanDetailsGoUnlimited",
+                "name": "button click",
+                "action": "Go Unlimited",
+                "page": "Myaccount|Data|Data Details"
+            },
+            {
+                "eventName": "PlanDetailsGoByTheGigabyte",
+                "name": "link click",
+                "action": "Go By the Gigabyte",
+                "page": "Myaccount|Data|Data Details"
+            },
+            {
+                "eventName": "PlanDetailsSTL",
+                "name": "link click",
+                "action": "STL",
+                "page": "Myaccount|Data|Data Details"
+            },
+            {
+                "eventName": "CarrierSwitch",
+                "name": "carrier switch",
+                "action": "carrier switch",
+                "page": "MyAccount|Activation|Down To Details"
+            },
+            {
+                "eventName": "AdditionalDevicePayment",
+                "name": "XFINITY mobile site / link",
+                "action": "Payment of ${{amount}} made",
+                "page": "Myaccount|Billing|Additional Device Payment Invoice"
+            },
+            {
+                "eventName": "InternationalLongDistanceSearch",
+                "name": "international country / link",
+                "action": "search",
+                "page": "myaccount|international|search|{{term}}"
+            },
+            {
+                "eventName": "InternationalLongDistanceSearchNotFound",
+                "name": "international country / link",
+                "action": "search",
+                "page": "myaccount|international|search|{{term}}"
+            },
+            {
+                "eventName": "ActivationError",
+                "name": "customer facing error",
+                "action": "{{activationError}}",
+                "page": "myaccount|activation|{{term}}"
+            },
+            {
+                "eventName": "UpdateContactInformation",
+                "name": "edit account info / link",
+                "action": "account and services",
+                "page": "myaccount|account and services|landing"
+            },
+            {
+                "eventName": "MyaccountChangePassword",
+                "name": "change password / link",
+                "action": "account and services",
+                "page": "myaccount|account and services|landing"
+            },
+            {
+                "eventName": "MyAccountSettingsDataBudget",
+                "name": "set budget / button",
+                "action": "account and services",
+                "page": "myaccount|account and services|landing"
+            },
+            {
+                "eventName": "UpdateContactInformationSaved",
+                "name": "save account information / button",
+                "action": "account and services",
+                "page": "myaccount|account and services|edit contact info"
+            },
+            {
+                "eventName": "UpdateContactInformationCancel",
+                "name": "cancel / button",
+                "action": "account and services",
+                "page": "myaccount|account and services|edit contact info"
+            },
+            {
+                "eventName": "UpdateContactInformationXFINITYLink",
+                "name": "view XFINITY site / link",
+                "action": "account and services",
+                "page": "myaccount|account and services|edit contact info"
+            },
+            {
+                "eventName": "PaymentMethodEditCard",
+                "name": "edit current card / link",
+                "action": "account and services",
+                "page": "myaccount|account and services|payment method"
+            },
+            {
+                "eventName": "PaymentMethodSaveCard",
+                "name": "save card information / button",
+                "action": "account and services",
+                "page": "myaccount|account and services|payment method|edit payment method"
+            },
+            {
+                "eventName": "PaymentMethodCancel",
+                "name": "cancel / button",
+                "action": "account and services",
+                "page": "myaccount|account and services|payment method|edit payment method"
+            },
+            {
+                "eventName": "MyAccountSettingsPrivacyPolicy",
+                "name": "view privacy policy / link",
+                "action": "account and services",
+                "page": "myaccount|account and services|legal"
+            },
+            {
+                "eventName": "MyAccountSettingsLicenseAgreement",
+                "name": "view license agreement / link",
+                "action": "account and services",
+                "page": "myaccount|account and services|legal"
+            },
+            {
+                "eventName": "MyAccountSettingsDataBudgetSet",
+                "name": "budgetGB, {{limit}}",
+                "action": "account and services",
+                "page": "myaccount|account and services|data|set budget"
+            },
+            {
+                "eventName": "MyAccountSettingsDataBudgetCancel",
+                "name": "cancel / button",
+                "action": "account and services",
+                "page": "myaccount|account and services|data|intro"
+            },
+            {
+                "eventName": "PreferNewNumber",
+                "name": "keep or port number",
+                "action": "keep or port number",
+                "page": "myaccount|activation|prefer a new number",
+                "dtmEvent": "sendActivationChoice"
+            },
+            {
+                "eventName": "ActivateWelcome",
+                "name": "activate welcome",
+                "action": "activate welcome",
+                "page": "myaccount|activation|welcome",
+                "dtmEvent": "sendAvailableLines"
+            },
+            {
+                "eventName": "ViewPastBills",
+                "name": "view past bills",
+                "action": "view past bills",
+                "page": "myaccount|billing|view past bills"
+            },
+            {
+                "eventName": "MyAccountDeviceChangeName",
+                "name": "change device name",
+                "action": "change device name",
+                "page": "myaccount|devices|detail"
+            },
+            {
+                "eventName": "MyAccountSuspendDeviceService",
+                "name": "suspend service",
+                "action": "suspend service",
+                "page": "myaccount|devices|lost or stolen device"
+            },
+            {
+                "eventName": "MyAccountReinstateDeviceService",
+                "name": "reinstate service",
+                "action": "reinstate service",
+                "page": "myaccount|devices|detail|reinstate service"
+            },
+            {
+                "eventName": "MobileCommunicationOptIn",
+                "name": "button click",
+                "action": "Xfinity Mobile Communication Opt-In",
+                "page": "checkout|shipping",
+                "dtmEvent": "optInConfirm"
+            },
+            {
+                "eventName": "RemoveCartItem",
+                "name": "Remove Item",
+                "action": "Cart-Remove Item",
+                "page": "Products|Shop|Modal|Review Cart"
+            },
+            {
+                "eventName": "FraudCheck",
+                "name": "Fraud Check Error",
+                "action": "",
+                "dtmEvent": "fraudCheck"
+            },
+            {
+                "eventName": "ILCCheck",
+                "eventAction": "ILC Check",
+                "action": "ILC Check",
+                "page": "Buy Flow|Checkout|Eligibility"
+            },
+            {
+                "eventName": "ECCCheck",
+                "eventAction": "ECC Check",
+                "action": "ECC Check",
+                "page": "Buy Flow|Checkout|Eligibility"
+            },
+            {
+                "eventName": "EligibilityUpdateCart",
+                "eventAction": "Eligibility Update Cart",
+                "action": "Eligibility Update Cart",
+                "page": "Buy Flow|Checkout|Eligibility"
+            },
+            {
+                "eventName": "EligibilityCachedCheck",
+                "eventAction": "Eligibility Cached Check",
+                "action": "Eligibility Cached Check",
+                "page": "Buy Flow|Checkout|Eligibility"
+            },
+            {
+                "eventName": "VerifyAddressFail",
+                "name": "500 Error",
+                "action": "Edit Address Dialog Open"
+            },
+            {
+                "eventName": "EligbilityError",
+                "name": "Eligbility Error",
+                "action": "",
+                "dtmEvent" : "eligbilityCheck"
+            },
+            {
+                "eventName":"PlanCompare",
+                "name": "button click",
+                "action": "Compare",
+                "dtmEvent": "savingCalcSeeSavings"
+            },
+            {
+                "eventName":"CarrierUpdate",
+                "name": "button click",
+                "action": "Select Carrier",
+                "dtmEvent": "savingCalcDetails"
+            },
+            {
+                "eventName":"EditCartItemEvent",
+                "name":"button click",
+                "action":"Edit"
+            },
+            {
+                "eventName":"cartModalOnSave",
+                "name":"button click",
+                "action":"Save {{groupName}}"
+            },
+            {
+                "eventName":"SearchAutoComplete",
+                "name": "button click",
+                "action": "Search AutoComplete",
+                "dtmEvent": "custom-SupportSearch"
+            },
+            {
+                "eventName":"SearchResultClick",
+                "name": "button click",
+                "action": "Search Result Click",
+                "dtmEvent": "searchResultClick"
+            }
+        ],
+        "forms":[
+            {
+                "eventName": "FraudForm",
+                "hookName": "fraudFormHook",
+                "page": "Buy Flow|Checkout|Login"
+            },
+            {
+                "eventName": "Home-Learn-Modal-HotspotMap",
+                "hookName": "wifiMapOverlayFormHook",
+                "page": "Home|Learn|Modal|Hotspot Map"
+            },
+            {
+                "eventName": "ActivationPortForm",
+                "hookName": "activationPortFormHook",
+                "page": "My Account|Activation|Down To Details"
+            }
+        ]
+    }
+
+}

@@ -1,0 +1,189 @@
+{
+    "preTransfer": {
+        "pageHeader": {
+            "header": "Welcome to XFINITY Mobile.",
+            "subhead": "Congratulations! Your confirmation number is <%= number %>. In a few days you should have your new phone in hand.<br>An email is on the way with additional details."
+        },
+        "pageContent": {
+            "prompt": {
+                "single": {
+                    "header": "Get an early start on activation.",
+                    "body": "If you enter a few account details now from your previous carrier, that will be one less thing you have to remember when your phone arrives."
+                },
+                "multi": {
+                    "header": "Get an early start on activation.",
+                    "body": "If you enter a few account details now from your previous carrier, that will be one less thing you have to remember when your phones arrive.",
+                    "mobileBody": "Choose a phone to enter transfer details."
+                }
+            },
+            "saved": {
+                "single": {
+                    "header": "Transfer details saved.",
+                    "body": "Access your transfer details any time from [link]."
+                },
+                "multi": {
+                    "header": "Transfer details saved.",
+                    "body": "Access your transfer details any time from [link]."
+                }
+            },
+            "desktop": {
+                "later": "Need to complete this later? Just head to [link].",
+                "help": "Need help? Read, [article]"
+            }
+        }
+    },
+    "copyTransferDetails": {
+        "header": "Is this shared account info?",
+        "body": "Select which lines share account info as [firstName]'s phone [number], and we'll copy your previous carrier details over.",
+        "cta": "Apply"
+    },
+    "activationHub": {
+        "header": "Tracking or activating new phones?",
+        "subhead": "You're in the right place.",
+        "mobileSub": "Select a phone",
+        "orderStatus": {
+            "placed": {
+                "text": "Order Placed",
+                "anchor": "Track Shipment"
+            },
+            "shipped": {
+                "text": "Estimated Delivery",
+                "anchor": "Track Shipment"
+            },
+            "delayed": {
+                "text": "Order Delayed",
+                "anchor": "Track Shipment"
+            },
+            "failed": {
+                "text": "Order Failed",
+                "anchor": "Track Shipment"
+            },
+            "received": {
+                "text": "Order Delivered",
+                "anchor": "Track Shipment"
+            },
+            "canceled": {
+                "text": "Canceled",
+                "anchor": "Track Shipment"
+            },
+            "alreadydelivered": {
+                "text": "Order already delivered?"
+            },
+            "deliveryfailed": {
+                "text": "Delivery Failed",
+                "anchor": "Track Shipment"
+            }
+        },
+        "activationStatus": {
+            "orderedIncomplete": {
+                "content": "Transferring a number? Start the process now.",
+                "cta": "Enter Transfer Details"
+            },
+            "orderedComplete": {
+                "content": "When your phone ships, you can track it here.",
+                "cta": "View Progress"
+            },
+            "delivered": {
+                "content": "Your shiny, new phone has arrived. Let’s get it set up.",
+                "cta": "Activate Phone"
+            },
+            "inProgress": {
+                "content": "Your phone is activating.",
+                "cta": "View Progress"
+            },
+            "portError": {
+                "content": "Some of your account details entered for transfer are incorrect.",
+                "cta": "Check Information"
+            },
+            "activationError": {
+                "content": "Uh oh. There's a problem activating this line, please call us at (215) 845-5845",
+                "cta": ""
+            },
+            "activationComplete": {
+                "content": "Activation complete! Your phone is good to go. It's now time to turn it on. If it's already on, please restart it.",
+                "cta": "Go to My Account"
+            }
+        }
+    },
+    "activation": {
+        "breadcrumbs": {
+            "transfer": "Transfer",
+            "powerOff": "Power Off",
+            "Activate": "Activate"
+        },
+        "steps": {
+            "zero": {
+                "headline": "Ready. Set. Activate.",
+                "bodyDesktop": "Get your new phone up and running in just a few steps. Activation may take up to two hours while we get your number from your previous carrier. Don't worry, your old phone will work just fine during this time.",
+                "bodyAll": "Ready to get started?",
+                "cta": "Let's Go",
+                "explainer": "Activation may take up to two hours, but your old phone will work just fine during this time."
+            },
+            "one": {},
+            "two": {
+                "subhead": "Make sure your new phone is off.",
+                "subContent": "We know you're excited, but please make sure your new phone is off in order to get everything working.",
+                "prompt": "Yep, my phone is off",
+                "cta": "Next step"
+            },
+            "three": {
+                "subheadPort": "Ready to switch phones?",
+                "subheadNew": "Ready?",
+                "bodyDesktopPort": "Click \"Start Activation\" and keep both your phones close. At some point within two hours, your service will quickly switch from your old phone to your new phone. We'll send you an email when the switch is complete.",
+                "bodyMobilePort": "Within two hours, service will switch from your old phone to your new phone. We'll send an email when it's done.",
+                "bodyDesktopNew": "Click \"Start Activation\" and keep your phone close. At some point within two hours, your service will start on your new phone. We'll send you an email when the process is complete.",
+                "bodyMobileNew": "Within two hours, service will start on your new phone. We'll send an email when it's done.",
+                "promptPort": "Let's make the switch.",
+                "promptNew": "Let's get started.",
+                "cta": "Start Activation"
+            },
+            "four": {
+                "states": {
+                    "inProgress": {
+                        "subhead": "We've got it from here. Activating now.",
+                        "content": "Keep your phone turned off."
+                    },
+                    "complete": {
+                        "subhead": "Activation is complete.",
+                        "content": "Your new phone is good to go! It's now time to turn it on. If it's already on, please restart it.",
+                        "message": "What's next?",
+                        "messageBody": "Turn on your new phone.<br>If it's already on, please restart it.",
+                        "messageBody2": "Enjoy mobile as it should be",
+                        "cta": "Go to My Account"
+                    },
+                    "errorUserFix": {
+                        "subhead": "Information error.",
+                        "content": "It looks like there's a problem with the details you entered from your previous carrier.",
+                        "cta": "Fix Error"
+                    },
+                    "errorCallUs": {
+                        "subhead": "We hit a snag.",
+                        "messageBody": "It looks like there's a problem with this line. Please call us at <strong>(215) 845-5845</strong> and we'll get to the bottom of it."
+                    }
+                },
+                "explainer": {
+                    "top": "Activation can happen any time within a two-hour period.",
+                    "bottom": "Watch for a confirmation email."
+                },
+                "linePicker": {
+                    "header": "Activate another phone.",
+                    "cta": "Back to activation home"
+                },
+                "game": {
+                    "header": "While you're here...",
+                    "cta": "Play Giggy's FunRun"
+                }
+            }
+        },
+        "support": {
+            "headline": "Questions about activation?",
+            "content": "If you get stuck at any point, we're here to help. Chat live with an Expert or call us at (215) 845-5845."
+        },
+        "activationBanners": {
+            "simple": {
+                "content": "Keep an eye on your phone delivery and activation progress.",
+                "cta": "Activation Home"
+            }
+        }
+    }
+}

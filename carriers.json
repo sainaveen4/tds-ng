@@ -1,0 +1,532 @@
+[
+  {
+    "carrier": "Airvoice",
+    "carrierCode": "Airvoice Wireless",
+    "account": "Account number is your SIM card number.",
+    "pin": "The Passcode is last 4 digits of phone number.",
+    "website": "https://www.airvoicewireless.com/",
+    "support": "888-944-2355",
+    "addressRequired": "Yes",
+    "notes": "https://www.airvoicewireless.com/PortYourNumber.aspx"
+  },
+  {
+    "carrier": "AT&T",
+    "carrierCode": "AT&T Go Phone",
+    "account": "Call the AT&T Number Transfer Request Line at 1-888-898-7685 to get your account number - it is NOT listed on the online account.",
+    "pin": "The passcode is your 4 digit PIN.",
+    "website": "https://www.paygonline.com/websc/loginPage.html",
+    "support": "888-898-7685",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "AT&T",
+    "carrierCode": "AT&T Landline",
+    "account": "10-digit phone number",
+    "pin": "PIN is the 4 digits to the immediate right of the phone number in the top right corner of bill",
+    "website": "http://www.att.com",
+    "support": "800.288.2020",
+    "addressRequired": 0,
+    "notes": "http://www.att.com/esupport/billAndAccount.jsp?cv=807"
+  },
+  {
+    "carrier": "AT&T",
+    "carrierCode": "AT&T Postpaid",
+    "account": "On the bill (not the phone #)",
+    "pin": "Online password",
+    "website": "http://www.att.com",
+    "support": "1-888-898-7685",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "AT&T",
+    "carrierCode": "AT&T Postpaid - Bundled Bills",
+    "account": "12-digit number under wireless account summary",
+    "pin": "Need to call AT&T customer service for the PIN",
+    "website": "http://www.att.com",
+    "support": 0,
+    "addressRequired": 0,
+    "notes": "https://www.att.com/esupport/article.html#!/dsl-high-speed/KM1061852"
+  },
+  {
+    "carrier": "Black Wireless",
+    "carrierCode": "Black Wireless",
+    "account": "see H2O",
+    "pin": 0,
+    "website": 0,
+    "support": 0,
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "Boost",
+    "carrierCode": "Boost Mobile",
+    "account": "Call Boost at 1-888-266-7848 to get your 9-digit account number. Click here for info.",
+    "pin": "4-digit PIN",
+    "website": "http://www.boostmobile.com\n\nhttps://myaccount.boostmobile.com/primary/_NES38O-i2c2sxgOi",
+    "support": "888-266-7848",
+    "addressRequired": "PIN, Activation Request Number",
+    "notes": 0
+  },
+  {
+    "carrier": "Budget",
+    "carrierCode": "Budget Mobile",
+    "account": "Log into online account to see account #",
+    "pin": "Last 4 digits of phone number or 0000",
+    "website": "www.budgetmobile.com/account/",
+    "support": "888-777-4007",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "BYO Wireless",
+    "carrierCode": "BYO Wireless",
+    "account": "Log into online account to see account #",
+    "pin": "Last 4 digits of phone number or 0000",
+    "website": "http://www.byowireless.com",
+    "support": "855-801-2969",
+    "addressRequired": "Yes, exact match required",
+    "notes": "Effective September 1, 2015, BYO Wireless L.L.C will no longer offer wireless service. Please use the \"My Account\" button below to log into your existing account for details and more information."
+  },
+  {
+    "carrier": "Clear Talk",
+    "carrierCode": "Clear Talk Wireless",
+    "account": "You must call customer service at 877-797-1696 to get your account number - it is NOT listed anywhere on your online account.",
+    "pin": "The passcode is what you set up when you opened the account with Clear Talk - it could be a word or PIN number. If you don't know it, you can call 877-797-1696 to get it.",
+    "website": "http://www.cleartalkwireless.com",
+    "support": "877-797-1696",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "Consumer Cellular",
+    "carrierCode": "Consumer Cellular",
+    "account": "Account number can be found online or by calling Consumer Cellular at 1-888-750-5519 (it is 9 digits).",
+    "pin": "The passcode is usually the last 4 digits of your social security number. Also, the name and address must match",
+    "website": "https://www.consumercellular.com",
+    "support": "888-750-5519",
+    "addressRequired": "Name and address must match",
+    "notes": 0
+  },
+  {
+    "carrier": "Cricket",
+    "carrierCode": "Cricket",
+    "account": "Account number can be found online or by calling the Cricket Porting Department at 1-866-351- 7678",
+    "pin": "Passcode is the 4-digit Authorization ID",
+    "website": "http://www.cricketwireless.com",
+    "support": "866-351-7678",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "Family Mobile",
+    "carrierCode": "Family Mobile",
+    "account": "Account number can be found on your monthly statement from Family Mobile.",
+    "pin": "The passcode is \"call-in\" passcode when you call customer service. If you don't know it, call Family Mobile Customer Service at 1-877-440-9758",
+    "website": "https://www.myfamilymobile.com/Login/login.aspx?rc=&dest=https%3a%2f%2fwww.myfamilymobile.com%3a443%2fdefault.aspx",
+    "support": "877-440-9758",
+    "addressRequired": "See Notes section for required info\n\nhttps://www.myfamilymobile.com/Support/DeviceSupport/DeviceSupport.aspx?supporttype=NUMBERTRANSFER",
+    "notes": "Required Information:\nIn order for Family Mobile to properly process your request to transfer a phone number, you must first provide the below information for the account yoyu are transferring from:\n-Name as is appears on the bill from original carrier\n-SSN associated with original account (if applicable)\n-Billing account number\n-Account Password or PIN from original account (only if applicable)\nIf any of this information is incorrect or not provided, the transfer will be delayed."
+  },
+  {
+    "carrier": "Flash Wireless",
+    "carrierCode": "Flash Wireless",
+    "account": "The account number can be found by logging into your account at flashwireless.com",
+    "pin": "The PIN is something only you know - you created it when you set up the account. If you don't know it, you will need to chat with customer service by going toFlashWireless.com",
+    "website": "http://www.flashwireless.com",
+    "support": "888.226.2141",
+    "addressRequired": 0,
+    "notes": "https://www.flashwireless.com/Portals/29/Activation.htm\n\nHow do I port my phone number? Visit the Transfer Service link\n\nhttps://www.flashwireless.com/Portals/29/Activation.htm#_Flash_Wireless_%96_3"
+  },
+  {
+    "carrier": "FreedomPop",
+    "carrierCode": "FreedomPop",
+    "account": "10-digit phone number",
+    "pin": "Last 4 digits of phone number",
+    "website": "http://www.freedompop.com/byod",
+    "support": "1 (888) 743-8107",
+    "addressRequired": 0,
+    "notes": "The FreedomPop Porting Department does NOT work on the weekends - Please allow 2 to 4 days for the number to be released.\n\nIf you like your FreedomPop service after a month, you're definitely able to port in then too! Whenever you want to you can go to My Account » Phone number and then you can enter your number to port in. You can wait as long as you need to port in"
+  },
+  {
+    "carrier": "Go Smart",
+    "carrierCode": "Go Smart Mobile",
+    "account": "The account number is your phone number (including area code)",
+    "pin": "The passcode is your 4-digit PIN - if you are not sure what that is call Go Smart Customer Service at 1-877-582-7788.",
+    "website": "https://support.gosmartmobile.com/articles/transfer-number",
+    "support": "1-877-582-7788",
+    "addressRequired": "No",
+    "notes": "You'll need to have the following information handy from your original service provider when you activate:\n\nYour account number (you can find this on a bill or by calling your original service provider)\nPIN/Password (this helps us protect your account and prevent someone not on the account from transferring your number)"
+  },
+  {
+    "carrier": "Google Voice",
+    "carrierCode": "Google Voice",
+    "account": "Go to: https://www.google.com/ voice/unlock to unlock number. Account number is 10-digit phone number.",
+    "pin": "Last 4 digits of phone number",
+    "website": "https://www.google.com/ voice/unlock",
+    "support": 0,
+    "addressRequired": "Name and address must match",
+    "notes": "https://support.google.com/voice/answer/1316844"
+  },
+  {
+    "carrier": "Google-Fi",
+    "carrierCode": "Google-Fi",
+    "account": "Once you cancel service with Google Fi they will provide the “port out” account number and password.\nAfter you cancel your service (your service will stay active until the number is ported out), you will be provided with the account number and password. Go to this webpage for further instructions on how to cancel:https://support.google.com/fi/answer/6079398",
+    "pin": "The password with be provided when you cancel service. It will be available in a notification on the Project Fi app and website.",
+    "website": "https://fi.google.com/account",
+    "support": 0,
+    "addressRequired": 0,
+    "notes": "Requested invite to Early Access Program - pending. HM"
+  },
+  {
+    "carrier": "GoSmart",
+    "carrierCode": "GoSmart",
+    "account": "10-digit phone number",
+    "pin": "4-digit PIN. Dial 611 to set one up if needed.",
+    "website": "https://www.gosmartmobile.com/get-started",
+    "support": "1-877-582-7788",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "Great Call",
+    "carrierCode": "Great Call",
+    "account": "Account number can be found on your bill or by calling Great Call Customer Service at 800-918-8543.",
+    "pin": "You will need to call Great Call Customer Service at 1-800-918-8543 to get your PIN/Passcode",
+    "website": "https://www.greatcall.com",
+    "support": "800-918-8543",
+    "addressRequired": 0,
+    "notes": "Port will take 1 to 3 business days to complete."
+  },
+  {
+    "carrier": "H20 Wireless",
+    "carrierCode": "H20 Wireless",
+    "account": "Full 20 digits of the SIM Card number",
+    "pin": "Last 4 digits of SIM number. But you need to call customer service at 1-800-643-4926 and ask to release number for porting",
+    "website": "https://www.h2owirelessnow.com/mainControl.php?page=index",
+    "support": "1-800-643-4926",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "Line2",
+    "carrierCode": "Line 2 / Toktumi",
+    "account": "10-digit phone number",
+    "pin": "Passcode is login passcode -",
+    "website": "https://www.line2.com",
+    "support": "https://support.line2.com/hc/en-us/requests/new\n\nsupport@line2.com",
+    "addressRequired": 0,
+    "notes": "it will take between 3 to 5 days to port.\nhttps://support.line2.com/hc/en-us/categories/200115358-Number-Transfers"
+  },
+  {
+    "carrier": "Lycamobile",
+    "carrierCode": "Lycamobile",
+    "account": "Call CS at 1-866-277-3221 to get account #",
+    "pin": "Call CS at 1-866-277-3221 to get password",
+    "website": "http://www.lycamobile.us/en/",
+    "support": "866-277-3221",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "Magic Jack",
+    "carrierCode": "Magic Jack",
+    "account": "Login to your Magic Jack account, and click on the \"Account\" tab at the top - it will be listed at the top as \"Accountid\" - number MUST BE active on the Majic Jack device and NOT on the Majic Jack App.",
+    "pin": "The passcode is usually your LOGIN passcode. If you have never logged in, you will contact Majic Jack to get your passcode. To contact them, you'll need to start a chat by clicking their \"Live Help\" tab on the Majic Jack website.",
+    "website": "http://www.magicjack.com/index.html",
+    "support": "1-800-624-4252",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "Metro PCS",
+    "carrierCode": "Metro PCS",
+    "account": "9-digit number found on online profile (not the phone #)",
+    "pin": "Call-in passcode",
+    "website": "https://www.metropcs.com",
+    "support": "888-863-8768",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "NET10",
+    "carrierCode": "NET10",
+    "account": "MEID or IMEI serial number of the phone, or last 15 digits of BYOP SIM card",
+    "pin": "NET10 doesn’t use passcodes, use 0000 if the operator you are porting to requires a passcode",
+    "website": "http://www.net10wireless.com",
+    "support": "1-800-649-7570",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "Page Plus",
+    "carrierCode": "Page Plus",
+    "account": "10-digit phone number",
+    "pin": "Last 4 digits of phone number unless it has been changed",
+    "website": "https://www.pagepluscellular.com",
+    "support": "(800) 550-2436",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "PlatinumTel",
+    "carrierCode": "PlatinumTel",
+    "account": "The Account number is the phone number.",
+    "pin": "The passcode is a 4 digit PIN number - you can get it by calling PlatinumTel Customer Service at 1-866-225-5631\n4-digit Account PIN which can be found by logging in online",
+    "website": "https://www.ptel.com",
+    "support": "866-225-5631",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "Project Fi by Google",
+    "carrierCode": "Project Fi by Google",
+    "account": "After you cancel your service (your service will stay active until the number is ported out), you will be provided with the account number and password. Go to this webpage for further instructions on how to cancel:https://support.google.com/fi/answer/6079398",
+    "pin": "The password with be provided when you cancel service. It will be available in a notification on the Project Fi app and website.",
+    "website": "https://fi.google.com/account",
+    "support": 0,
+    "addressRequired": 0,
+    "notes": "https://support.google.com/fi/answer/6079398"
+  },
+  {
+    "carrier": "Puppy Wireless",
+    "carrierCode": "Puppy Wireless",
+    "account": "The Account number will be listed on your \"account dashboard\" when you login. If you still can find it, call PuppyWireless at 800-724-7164",
+    "pin": "The passcode is the last 4 digits of your phone number -",
+    "website": "https://mypuppywireless.com/store/x/?",
+    "support": "800-724-7164",
+    "addressRequired": 0,
+    "notes": "the port from Puppywireless will take 24 to 72 hours to complete"
+  },
+  {
+    "carrier": "Pure Talk",
+    "carrierCode": "Pure Talk USA",
+    "account": "The Account number can be found on your original Welcome Letter - it is also the number you use to login to your account online. If you don't know it, please call Pure Talk Customer Service at 1-877-820-7873. The first and last name must also match on the account, as well as the address.",
+    "pin": "There is NO Passcode, unless you specifically set one up - so just enter 0000",
+    "website": "https://www.puretalkusa.com",
+    "support": "877-820-7873",
+    "addressRequired": "The first and last name must also match on the account, as well as the address.",
+    "notes": 0
+  },
+  {
+    "carrier": "Red Pocket",
+    "carrierCode": "Red Pocket CDMAS, CDMAV",
+    "account": "10-digit phone number",
+    "pin": "Last four digits of the phone’s MEID or ESN serial number",
+    "website": "https://goredpocket.com",
+    "support": "712.775.8777",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "Red Pocket",
+    "carrierCode": "Red Pocket GSMA, GSMT",
+    "account": "10-digit phone number",
+    "pin": "Last 4 digits of the SIM ID",
+    "website": "https://goredpocket.com",
+    "support": "712.775.8778",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "Republic",
+    "carrierCode": "Republic",
+    "account": "10-digit phone number",
+    "pin": "PIN is the billing zip code",
+    "website": "https://republicwireless.com",
+    "support": "https://auth.republicwireless.com/login?continue=https%3A%2F%2Fauth.republicwireless.com%2Fsaml2%2Flogin%3Fverify%3Dc08586a190d0379bf94334e75f34f7e6&service=default&theme=light\n\nDoes not have a custome service phone number",
+    "addressRequired": 0,
+    "notes": "Port will take 4 to 7 days to complete."
+  },
+  {
+    "carrier": "RingPlus",
+    "carrierCode": "RingPlus",
+    "account": "Login to your RingPlus dashboard, click the name of the account you wish to port out. On left, click Porting Your Phone Number under Device. Click the Port Out Your Number tab to view your account number and passcode which I believe are your 6-digit MSL and voice mail PIN.",
+    "pin": "The PIN number is the 6 digit MSL in your dashboard",
+    "website": "http://www.ringplus.com",
+    "support": 0,
+    "addressRequired": "Name and Address MUST MATCH the name and address as listed on the default method of payment in your dashboard",
+    "notes": 0
+  },
+  {
+    "carrier": "SafeLink",
+    "carrierCode": "SafeLink Wireless",
+    "account": "MEID or IMEI serial number of the phone",
+    "pin": "No passcode",
+    "website": "https://www.safelinkwireless.com",
+    "support": "1-800-378-1684",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "Selectel",
+    "carrierCode": "Selectel Wireless",
+    "account": "8-digit number, labeled “Account” that’s displayed on you online account page after you log in",
+    "pin": "4 digit PIN if you set one up",
+    "website": "http://www.selectelwireless.com",
+    "support": "877.218.5744",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "Simple Mobile",
+    "carrierCode": "Simple Mobile",
+    "account": "Account number is your phone number (including area code).",
+    "pin": "The passcode is your online password (or last 8 digits of your SIM if you haven't changed it).",
+    "website": "https://www.simplemobile.com",
+    "support": "1-877-878-7908",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "Sprint",
+    "carrierCode": "Sprint",
+    "account": "9-digit number (not phone number)",
+    "pin": "“Call-in” passcode",
+    "website": "https://www.sprint.com",
+    "support": "1-866-275-1411",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "Straight Talk",
+    "carrierCode": "Straight Talk (also Telcel America and TracFone)",
+    "account": "MEID or IMEI serial number of the phone, or last 15 digits of BYOP SIM card",
+    "pin": "Passcode found online on profile page and usually last 4 digits of the phone #, or for BYOP SIMs, the last four digits of the SIM ID. If no passcode is listed, set one up before porting.",
+    "website": "https://www.straighttalk.com/wps/portal/home",
+    "support": "1-877-430-CELL (2355)",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "T-Mobile",
+    "carrierCode": "T-Mobile Postpaid",
+    "account": "9 digit account number on bill",
+    "pin": "Password can be a word",
+    "website": "http://www.tmobile.com",
+    "support": "1-877-413-5903",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "T-Mobile",
+    "carrierCode": "T-Mobile Prepaid",
+    "account": "11 digit phone number (1-NNN-NNN-NNNN)",
+    "pin": "4-digit PIN, dial 611 to set one up.",
+    "website": "http://www.tmobile.com",
+    "support": "877-789-3106",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "Talk for Good",
+    "carrierCode": "Talk for Good",
+    "account": "Account number is your 10 digit phone number.",
+    "pin": "The passcode is the last 4 digits of the phone number.",
+    "website": "September 17, 2013: Today, TalkForGood has made its shutdown official.",
+    "support": "September 17, 2013: Today, TalkForGood has made its shutdown official.",
+    "addressRequired": "September 17, 2013: Today, TalkForGood has made its shutdown official.",
+    "notes": "September 17, 2013: Today, TalkForGood has made its shutdown official."
+  },
+  {
+    "carrier": "Telcel America",
+    "carrierCode": "Telcel America",
+    "account": "See Straight Talk",
+    "pin": "See Straight Talk",
+    "website": "See Straight Talk",
+    "support": "See Straight Talk",
+    "addressRequired": "See Straight Talk",
+    "notes": "See Straight Talk"
+  },
+  {
+    "carrier": "Ting",
+    "carrierCode": "Ting",
+    "account": "At the top of online statement",
+    "pin": "For CDMA accounts is the phone’s MSL (found on the Devices screen of online Ting profile). For GSM accounts the passcode is on online statement.",
+    "website": "http://www.ting.com",
+    "support": "1 855 846 4389",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "Total Wireless",
+    "carrierCode": "Total Wireless",
+    "account": "Account number is the ESN or MEID of your Total Wireless phone.. You can find this number in the \"Settings\" menu on your phone, or remove the battery and look for it on the back of the phone.",
+    "pin": "For the passcode, just put \"0000\" as Total Wireless does not require a passcode.",
+    "website": "https://www.totalwireless.com",
+    "support": "1-866-663-3633",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "TracFone",
+    "carrierCode": "TracFone",
+    "account": "See Straight Talk",
+    "pin": "See Straight Talk",
+    "website": "See Straight Talk",
+    "support": "See Straight Talk",
+    "addressRequired": "See Straight Talk",
+    "notes": "See Straight Talk"
+  },
+  {
+    "carrier": "Ultra Mobile",
+    "carrierCode": "Ultra Mobile",
+    "account": "The Account number is NOT listed on your bill. You will need to call Ultra Mobile Customer Service Department at 888-777-0446 to get your \"porting account number.",
+    "pin": "You will need to call Ultra Mobile Customer Service Department at 888-777-0446 to get your \"porting passcode.",
+    "website": "http://ultra.me",
+    "support": "888-777-0446",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "US Cellular",
+    "carrierCode": "US Cellular",
+    "account": "The Account number for porting purposes is NOT the one listed on your bill. You will need to call the US Cellular Porting Department at 888-900-7678 to get your \"porting account number.",
+    "pin": "The passcode is your 4 digit PIN.",
+    "website": "http://www.uscellular.com",
+    "support": "888-900-7678",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "Verizon",
+    "carrierCode": "Verizon POSTPAID",
+    "account": "The account number can be found on your most recent bill and usually ends in 00001.",
+    "pin": "The passcode is \"call-in\" passcode when you call customer service. It is usually the last 4 digits of your social security number (unless you specifically changed it to something else). Customer Service Number is 800-922-0204.",
+    "website": "http://www.verizonwireless.com",
+    "support": "800-922-0204",
+    "addressRequired": 0,
+    "notes": "Also, NEVER port the PRIMARY number first - always port your secondary number(s) FIRST!!"
+  },
+  {
+    "carrier": "Verizon",
+    "carrierCode": "Verizon Prepaid",
+    "account": "Account Number is 10 digits, a dash ( - ) and 00001",
+    "pin": "4-digit security PIN",
+    "website": "http://www.verizonwireless.com/prepaid/",
+    "support": "(800) 922-0204",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "Virgin Mobile",
+    "carrierCode": "Virgin Mobile",
+    "account": "Need to contact Virgin Mobile customer service to get 9-digit account number",
+    "pin": "Passcode is usually the customer’s birthday in 6-digit format unless changed to something else.",
+    "website": "http://www.virginmobileusa.com",
+    "support": "855-326-7983",
+    "addressRequired": 0,
+    "notes": 0
+  },
+  {
+    "carrier": "Other / Not Sure",
+    "carrierCode": "Other / Not Sure",
+    "account": "Your account number can be found on an old bill or your previous carrier's website.",
+    "pin": "A PIN is required by your old carrier to process your number transfer. Look for yours on an old bill or by giving them a call.",
+    "website": "",
+    "support": "",
+    "addressRequired": 0,
+    "notes": 0
+  }
+]

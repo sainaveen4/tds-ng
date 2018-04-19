@@ -1,0 +1,43 @@
+[
+    {
+        "name" : "Retail",
+        "routes": [
+            {
+                "state": "landing.savingsCalculator"
+            },
+            {
+                "state": "landing.coverageMap"
+            }
+        ]
+    },
+    {
+        "name" : "Marketing",
+        "routes": [
+            {
+                "state": "landing.hotspot-coverage"
+            },
+            {
+                "state": "landing.data-plans"
+            },
+            {
+                "state": "landing.devices"
+            },
+            {
+                "state": "plan.landing",
+                "anchors": [
+                    "savings",
+                    "unlimited",
+                    "by-the-gig",
+                    "devices",
+                    "customizer"
+                ]
+            },
+            {
+                "state": "plan.international"
+            },
+            {
+                "state": "support.landing"
+            }
+        ]
+    }
+]
