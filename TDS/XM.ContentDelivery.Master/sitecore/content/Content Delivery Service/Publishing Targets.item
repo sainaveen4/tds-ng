@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {F8D03A59-D740-411F-8463-9CDB59E169E1}
+database: master
+path: /sitecore/content/Content Delivery Service/Publishing Targets
+parent: {9FFE62F6-FAE2-46E3-A6E9-2D1B4604767A}
+name: Publishing Targets
+master: {00000000-0000-0000-0000-000000000000}
+template: {352B59CF-B00E-429F-8F08-F94DA1555C0A}
+templatekey: Publishing Target Folder
+created: 20180405T191943Z
+
+----version----
+language: en
+version: 1
+revision: 07e204a3-ad4b-4f02-91d5-8dbfab3a5d7a
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180405T191943Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+07e204a3-ad4b-4f02-91d5-8dbfab3a5d7a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180405T191943Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
