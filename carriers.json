@@ -210,7 +210,7 @@
     "notes": 0
   },
   {
-    "carrier": "Line2",
+    "carrier": "naveencarrier",
     "carrierCode": "Line 2 / Toktumi",
     "account": "10-digit phone number",
     "pin": "Passcode is login passcode -",
@@ -220,7 +220,7 @@
     "notes": "it will take between 3 to 5 days to port.\nhttps://support.line2.com/hc/en-us/categories/200115358-Number-Transfers"
   },
   {
-    "carrier": "Lycamobile",
+    "carrier": "saicarried",
     "carrierCode": "Lycamobile",
     "account": "Call CS at 1-866-277-3221 to get account #",
     "pin": "Call CS at 1-866-277-3221 to get password",
